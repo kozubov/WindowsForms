@@ -1,0 +1,9 @@
+D:\999\WinForms\WF_2\WF_2\WF_2_3\bin\Debug\WF_2_3.exe.config
+D:\999\WinForms\WF_2\WF_2\WF_2_3\bin\Debug\WF_2_3.exe
+D:\999\WinForms\WF_2\WF_2\WF_2_3\bin\Debug\WF_2_3.pdb
+D:\999\WinForms\WF_2\WF_2\WF_2_3\obj\Debug\WF_2_3.Form1.resources
+D:\999\WinForms\WF_2\WF_2\WF_2_3\obj\Debug\WF_2_3.Properties.Resources.resources
+D:\999\WinForms\WF_2\WF_2\WF_2_3\obj\Debug\WF_2_3.csproj.GenerateResource.Cache
+D:\999\WinForms\WF_2\WF_2\WF_2_3\obj\Debug\WF_2_3.exe
+D:\999\WinForms\WF_2\WF_2\WF_2_3\obj\Debug\WF_2_3.pdb
+D:\999\WinForms\WF_2\WF_2\WF_2_3\obj\Debug\WF_2_3.csprojResolveAssemblyReference.cache

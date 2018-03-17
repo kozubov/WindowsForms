@@ -1,0 +1,8 @@
+D:\999\WinForms\WF_2\WF_2\WF_2\bin\Debug\WF_2.exe.config
+D:\999\WinForms\WF_2\WF_2\WF_2\bin\Debug\WF_2.exe
+D:\999\WinForms\WF_2\WF_2\WF_2\bin\Debug\WF_2.pdb
+D:\999\WinForms\WF_2\WF_2\WF_2\obj\Debug\WF_2.Form1.resources
+D:\999\WinForms\WF_2\WF_2\WF_2\obj\Debug\WF_2.Properties.Resources.resources
+D:\999\WinForms\WF_2\WF_2\WF_2\obj\Debug\WF_2.csproj.GenerateResource.Cache
+D:\999\WinForms\WF_2\WF_2\WF_2\obj\Debug\WF_2.exe
+D:\999\WinForms\WF_2\WF_2\WF_2\obj\Debug\WF_2.pdb
