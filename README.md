@@ -1,58 +1,58 @@
-<h1>Задание 1</h1>
-Вывести на экран свое (краткое!!!) резюме с помощью последова
-тельности MessageBox’ов (числом не менее трех). Причем на заголовке
-последнего должно отобразиться среднее число символов на странице
-(общее количество символов в резюме / количество MessageBox’ов).
-<h1>Задание 2</h1>
-Написать функцию, которая «угадывает» задуманное пользова
-телем число от 1 до 2000. Для запроса к пользователю использовать
-MessageBox. После того, как число отгадано, необходимо вывести
-количество запросов, потребовавшихся для этого, и предоставить
-пользователю возможность сыграть еще раз, не выходя из программы
-(MessageBox’ы оформляются кнопками и значками соответственно
-ситуации).
-<h1>Задание 3</h1>
-Представьте, что у вас на форме есть прямоугольник, границы ко
-торого на 10 пикселей отстоят от границ рабочей области формы. Не
-обходимо создать следующие обработчики:<br>
-■ Обработчик нажатия левой кнопки мыши, который выво
-дит сообщение о том, где находится текущая точка: вну
-три прямоугольника, снаружи, на границе прямоугольника.
-Если при нажатии левой кнопки мыши была нажата кнопка
-Control (Ctrl), то приложение должно закрываться;<br>
-■ Обработчик нажатия правой кнопки мыши, который вы
-водит в заголовок окна информацию о размере клиентской
-(рабочей) области окна в виде: Ширина = x, Высота = y, где
-x и y – соответствующие параметры вышего окна;<br>
-■ Обработчик перемещения указателя мыши в пределах ра
-бочей области, который должен выводить в заголовок окна
-текущие координаты мыши x и y.
-<h1>Задание 4</h1>
-Разработать приложение, созданное на основе форме.<br>
-■ Пользователь «щелкает» левой кнопкой мыши по форме и,
-не отпуская кнопку, ведет по ней мышку, а в момент отпу
-скания кнопки по полученным координатам прямоуголь
-ника (вам, конечно, известно, что двух точек на плоскости
-достаточно для создания прямоугольника) необходимо со
-здать «статик», который содержит свой порядковый номер
-(имеется в виду порядок появления на форме).<br>
-■ Минимальный размер «статика» составляет 10х10, при по
-пытке создания элемента меньших размеров пользователь
-должен увидеть соответствующее предупреждение.<br>
-■ При щелчке правой кнопкой мыши над поверхностью
-«статика» в заголовке окна должна появиться информа
-ция о его площади и координатах (относительно формы).
-В случае, если в точке щелчка находится несколько «ста
-тиков», то предпочтение отдается «статику» с наибольшим
-порядковым номером.<br>
-■ При двойном щелчке левой кнопки мыши над поверхно
-стью «статика» он должен исчезнуть с формы. В случае,
-если в точке щелчка находится несколько «статиков», то
-предпочтение отдается «статику» с наименьшим порядко
-вым номером.
-<h1>Задание 5</h1>
-Разработать приложение «убегающий статик»:) Суть приложения:
-на форме расположен статический элемент управления («статик»).
-Пользователь пытается подвести курсор мыши к «статику», и, если
-курсор находиться близко со статиком, элемент управления «убега
-ет». Предусмотреть перемещение «статика» только в пределах формы.
+<h1> Task 1 </ h1>
+Display your (short !!!) resume using the following
+MessageBoxs (not less than three). And on the title
+the last should display the average number of characters per page.
+(total number of characters in resume / number of MessageBoxs).
+<h1> Task 2 </ h1>
+Write a function that "guesses" the intended user
+Telem number from 1 to 2000. To request the user to use
+MessageBox. After the number is guessed, you must output
+the number of requests required for this and provide
+the user the opportunity to play again without leaving the program
+(MessageBox'y decorated with buttons and icons, respectively
+situations).
+<h1> Task 3 </ h1>
+Imagine that you have a rectangle on your form, the borders
+10 pixels away from the boundaries of the work area of ​​the form. Not
+The following handlers should be created: <br>
+■ Handler for clicking the left mouse button, which is
+There is a message about where the current point is: inside
+three rectangles, outside, on the border of the rectangle.
+If the button was pressed when pressing the left mouse button
+Control (Ctrl), then the application should close; <br>
+■ The right-click handler that you
+leads to the window header information about the size of the client
+(working) window area in the form: Width = x, Height = y, where
+x and y - the corresponding parameters of the upper window; <br>
+■ Handler for moving the mouse pointer within ra
+the boho area that should be displayed in the window header
+current mouse coordinates are x and y.
+<h1> Task 4 </ h1>
+Develop an application based on a form. <br>
+■ The user “clicks” with the left mouse button on the form and
+without releasing the button, leads the mouse over it, and at the moment I leave it
+scans of the button on the received coordinates rectangle
+nickname (you, of course, know that two points on the plane
+enough to create a rectangle)
+create a "static", which contains its sequence number
+(I mean the order of appearance on the form). <br>
+■ The minimum size of "static" is 10x10, with
+attempting to create an element of smaller size user
+must see the corresponding warning. <br>
+■ When right-clicking above the surface
+"Static" in the title of the window should appear information
+tion about its area and coordinates (relative to the form).
+In case there are several “hundred
+ticks ", the preference is given to" statics "with the greatest
+serial number. <br>
+■ By double clicking the left mouse button over the surface
+With the help of “static” it should disappear from the form. When,
+if there are several “statics” at the click point, then
+preference is given to “statics” with the least order
+by number.
+<h1> Task 5 </ h1>
+Develop an application “runaway static” :) The essence of the application:
+on the form is a static control ("static").
+The user is trying to move the mouse cursor to "static", and, if
+the cursor is close to the static; the escape control
+em. Provide for movement "static" only within the form.
